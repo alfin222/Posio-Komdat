@@ -49,4 +49,4 @@ Posio ditulis dalam bahasa pemrograman Python. Permainan ini cukup mudah dimaink
 
 ## Referensi
 1. [Posio](https://github.com/abrenaut/posio) - abrenaut Github
-2. [Komunikasi Data dan Jaringan Komputer Praktikum 01] (https://github.com/auriza/komdat-lab/blob/master/p01.md) - Auriza Github
+2. [Komunikasi Data dan Jaringan Komputer Praktikum 01](https://github.com/auriza/komdat-lab/blob/master/p01.md) - Auriza Github
