@@ -38,7 +38,7 @@ $ python run.py
 
 
 ## Cara Bermain
-Cara memainkan **Clumsy Bird** cukup dengan menekan tombol`left-click` untuk memilih lokasi tebakan.
+Cara memainkan **Posio** cukup dengan menekan tombol`left-click` untuk memilih lokasi tebakan.
 ![](https://github.com/alfin222/Posio-Komdat/blob/master/Select_Location.png)
 
 Lalu tunggu sesaat untuk melihat hasil seberapa akurat hasil tebakannya.
