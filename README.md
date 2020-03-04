@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/alfin222/Posio-Komdat/blob/master/posio_insert_name.png"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Bermain](#carabermain) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Bermain](#cara-bermain) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:
 
 
