@@ -18,7 +18,7 @@
 
 #### Kebutuhan Sistem :
 - VM Linux Ubuntu 18.04
-- Python-pip
+- Python3-pip
 - Flask
 - Flask-socketio
 - Eventlet
