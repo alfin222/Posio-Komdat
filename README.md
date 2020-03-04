@@ -20,7 +20,7 @@
 - VM Linux Ubuntu 18.04
 - Python3-pip
 - Flask
-- Flask-socketio
+- Flask-SocketIO
 - Eventlet
 - nginx
 
