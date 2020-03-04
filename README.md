@@ -1,11 +1,11 @@
 <h1 align="center"><img src="https://github.com/alfin222/Posio-Komdat/blob/master/posio_insert_name.png"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Bermain](#cara-bermain) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang-posio) | [Instalasi](#instalasi) | [Cara Bermain](#cara-bermain) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:
 
 
 
-# Sekilas Tentang
+# Sekilas Tentang Posio
 [`^ kembali ke atas ^`](#)
 
 **__Posio__** adalah sebuah *multiplayer game* berbasis web. Repository game ini dibuat oleh kontributor bernama [abrenaut](https://github.com/abrenaut/). Lokasi repository terdapat di https://github.com/abrenaut/posio.
