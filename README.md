@@ -27,7 +27,7 @@
 #### Proses Instalasi :
 1. Login kedalam server pada virtual server menggunakan *username* `student` dan *password* `student`
 
-2. Pinda direktori ke `$HOME` lalu unduh **posio**
+2. Pindah direktori ke `$HOME` lalu unduh **posio**
     ```
     cd && git clone https://github.com/abrenaut/posio/
     ```
