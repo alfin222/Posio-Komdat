@@ -121,7 +121,10 @@ Lalu tunggu sesaat untuk melihat hasil seberapa akurat hasil tebakannya.
 ## Pembahasan
 [`^ kembali ke atas ^`](#)
 
-Posio ditulis dalam bahasa pemrograman Python. Permainan ini cukup mudah dimainkan tanpa perlu <i>tutorial</i> karena hanya cukup dengan menebak lokasi suatu kota di seluruh dunia.
+Posio ditulis dalam bahasa pemrograman Python. Permainan ini cukup mudah dimainkan tanpa perlu <i>tutorial</i> karena hanya cukup dengan menebak lokasi suatu kota di seluruh dunia. Setiap tebakan yang mendekati dengan lokasi aslinya, maka akan diberikan skor sesuai dengan jarak antara lokasi tebakan dengan lokasi aslinya. Rumus perhitungan skor yang didapat adalah sebagai berikut.
+if(X < 2000){
+    int Score = 2000 - X
+}
 
 ## Referensi
 [`^ kembali ke atas ^`](#)
