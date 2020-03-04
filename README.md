@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/alfin222/Posio-Komdat/blob/master/Select_Location.png"></h1>
+<h1 align="center"><img src="https://github.com/alfin222/Posio-Komdat/blob/master/posio_insert_name.png"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Bermain](#caraermain) | [Pembahasan](#pembahasan) | [Cara Pemakaian](#cara-pemakaian) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:
@@ -105,10 +105,8 @@ Posio adalah sebuah *multiplayer game* berbasis web. Repository game ini dibuat 
     sudo systemctl restart nginx
     ```
 
-9. Restart kembali Apache web server.
-    ```
-    $ sudo service apache2 restart
-    ```
+9. Buka *link* `http://localhost/`
+
 
 
 ## Cara Bermain
