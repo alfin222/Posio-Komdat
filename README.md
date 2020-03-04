@@ -9,6 +9,9 @@ Posio adalah sebuah multiplayer game berbasis web. Repository game ini dibuat ol
 ### Kebutuhan Sistem:
 1. VM Linux Ubuntu 18.04
 2. Python-pip
+3. Flask
+4. Flask-socketio
+5. Eventlet
 
 ##
 #### Proses Instalasi :
