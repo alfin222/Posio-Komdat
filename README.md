@@ -25,6 +25,10 @@
 - nginx
 
 #### Proses Instalasi :
+
+**__Pastikan port virtual server *guest* adalah 80__**
+
+
 1. Login kedalam server pada virtual server menggunakan *username* `student` dan *password* `student`
 
 2. Pindah direktori ke `$HOME` lalu unduh **posio**
@@ -105,7 +109,7 @@
     sudo systemctl restart nginx
     ```
 
-9. Buka *link* `http://localhost/`
+9. Buka *link* http://localhost/
 
 
 
