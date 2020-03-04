@@ -8,7 +8,7 @@
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 
-**Posio** adalah sebuah *multiplayer game* berbasis web. Repository game ini dibuat oleh kontributor bernama [abrenaut](https://github.com/abrenaut/). Lokasi repository terdapat di https://github.com/abrenaut/posio.
+**__Posio__** adalah sebuah *multiplayer game* berbasis web. Repository game ini dibuat oleh kontributor bernama [abrenaut](https://github.com/abrenaut/). Lokasi repository terdapat di https://github.com/abrenaut/posio.
 
 
 
